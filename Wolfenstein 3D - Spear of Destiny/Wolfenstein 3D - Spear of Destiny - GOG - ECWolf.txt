@@ -15,7 +15,7 @@ installer:
     format: gog
 - merge:
     dst: $GAMEDIR/data
-    src: $CACHE/m1
+    src: $CACHE/M1
 - extract:
     dst: $GAMEDIR/data
     file: mpacks
